@@ -10,13 +10,43 @@ A FiveM vehicle interaction menu for emergency vehicles, built on [`ox_lib`](htt
 
 > The main menu with the Doors, Liveries, Extras and Plates categories.
 
-<!-- Add a screenshot here -->
+<img src="https://github.com/user-attachments/assets/778d3b4d-a773-4c86-8578-459bcadbb70c" width="391">
 
-### Video Preview
 
-> A short walkthrough of opening the menu, toggling doors and extras, and scrolling through liveries and plates.
+<br><br>
 
-<!-- Add a video here -->
+> Options for all other sub menus for vehicle interactions
+
+<br>
+
+
+<table>
+<tr>
+<td valign="top">
+
+### Doors Menu
+
+<img src="https://github.com/user-attachments/assets/6d8f1df7-fbcf-4d91-8de6-fe24d5a77838" width="391">
+
+</td>
+<td valign="top">
+
+### Liveries Menu
+
+<img src="https://github.com/user-attachments/assets/59a22309-5a18-432a-8167-c6b2848bda86" width="391">
+
+### Extras Menu
+
+<img src="https://github.com/user-attachments/assets/8a659d87-1dde-407b-b0b1-7c17b4d6499a" width="391">
+
+### Plates Menu
+
+<img src="https://github.com/user-attachments/assets/a91539a0-1d20-4026-9cf1-6a9f6386c109" width="391">
+
+</td>
+</tr>
+</table>
+
 
 ---
 
